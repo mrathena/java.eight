@@ -27,7 +27,7 @@ public class Test {
 				.filter(i -> i % 2 == 0).distinct()
 				.forEach(System.out::println);
 
-		// 截短流
+		// 截断流
 		System.out.println();
 		System.out.println(menu.stream()
 				.filter(d -> d.getCalories() > 300)
