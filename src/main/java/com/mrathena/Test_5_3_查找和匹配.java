@@ -1,4 +1,4 @@
-package com.mrathena.part2.chapter5.section3;
+package com.mrathena;
 
 import com.mrathena.common.Dish;
 
@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 
-public class Test {
+public class Test_5_3_查找和匹配 {
 
 	public static void main(String[] args) {
 

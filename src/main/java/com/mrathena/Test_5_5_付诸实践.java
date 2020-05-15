@@ -1,20 +1,18 @@
-package com.mrathena.part2.chapter5.section5;
+package com.mrathena;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-import lombok.extern.slf4j.Slf4j;
 
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 import java.util.function.BiFunction;
-import java.util.stream.Collectors;
-import static java.util.stream.Collectors.*;
+
 import static java.util.Comparator.*;
 
-public class Test {
+public class Test_5_5_付诸实践 {
 
 	public static void main(String[] args) {
 		Trader raoul = new Trader("Raoul", "Cambridge");

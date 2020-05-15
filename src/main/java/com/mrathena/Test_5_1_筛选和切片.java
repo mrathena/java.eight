@@ -1,4 +1,4 @@
-package com.mrathena.part2.chapter5.section1;
+package com.mrathena;
 
 import com.mrathena.common.Dish;
 
@@ -7,7 +7,7 @@ import java.util.List;
 
 import static java.util.stream.Collectors.*;
 
-public class Test {
+public class Test_5_1_筛选和切片 {
 
 	public static void main(String[] args) {
 

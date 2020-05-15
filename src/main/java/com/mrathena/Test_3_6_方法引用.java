@@ -1,8 +1,8 @@
-package com.mrathena.part1.chapter3.section6;
+package com.mrathena;
 
 import java.util.function.UnaryOperator;
 
-public class Test {
+public class Test_3_6_方法引用 {
 
 	public static void main(String[] args) {
 		UnaryOperator<String> unaryOperator = (String s) -> s.toUpperCase();

@@ -1,9 +1,9 @@
-package com.mrathena.part2.chapter5.section4;
+package com.mrathena;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class Test {
+public class Test_5_4_归约 {
 
 	public static void main(String[] args) {
 
